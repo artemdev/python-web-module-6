@@ -1,1 +1,1 @@
-Made simple sql lite DB and SQL queries to fetch data.
+Simple SQLite DB and SQL queries to fetch data.
